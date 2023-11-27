@@ -37,8 +37,9 @@ Estructura del Proyecto
 Autor
 Rabab Beihaqi
 
+DIAGRAMA DE CLASE
 ```
-Diagrma de clases
+
 
 
 ![](123.png)
