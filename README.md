@@ -20,6 +20,7 @@ cd tu_proyecto
     Ejecuta la clase Main ubicada en src/main/java/nombre/paquete/Main.java.
 
     El programa abrirá Firefox, accederá a la página web de IMDb y extraerá datos de las películas.
+```
 
 2. Estrategia Utilizada
 
