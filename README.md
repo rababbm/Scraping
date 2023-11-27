@@ -37,6 +37,6 @@ Estructura del Proyecto
 Autor
 Rabab Beihaqi
 
+```
 Diagrma de clases
-
-![123.png](123.png)
+![](/home/rabab/Descargas/DIAGRAM.png)
