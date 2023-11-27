@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<peliculas>
+    <pelicula>
+        <titulo>1. Cadena perpetua</titulo>
+        <enlace>https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1</enlace>
+        <year>1994</year>
+        <duration>2h 22m</duration>
+        <director>Frank Darabont</director>
+    </pelicula>
+    <pelicula>
+        <titulo>2. El padrino</titulo>
+        <enlace>https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2</enlace>
+        <year>1972</year>
+        <duration>2h 55m</duration>
+        <director>Francis Ford Coppola</director>
+    </pelicula>
+    <pelicula>
+        <titulo>3. El caballero oscuro</titulo>
+        <enlace>https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3</enlace>
+        <year>2008</year>
+        <duration>2h 32m</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>4. El padrino parte II</titulo>
+        <enlace>https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4</enlace>
+        <year>1974</year>
+        <duration>3h 22m</duration>
+        <director>Francis Ford Coppola</director>
+    </pelicula>
+    <pelicula>
+        <titulo>5. 12 hombres sin piedad</titulo>
+        <enlace>https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5</enlace>
+        <year>1957</year>
+        <duration>1h 36m</duration>
+        <director>Sidney Lumet</director>
+    </pelicula>
+    <pelicula>
+        <titulo>6. La lista de Schindler</titulo>
+        <enlace>https://www.imdb.com/title/tt0108052/?ref_=chttp_t_6</enlace>
+        <year>1993</year>
+        <duration>3h 15m</duration>
+        <director>Steven Spielberg</director>
+    </pelicula>
+    <pelicula>
+        <titulo>7. El señor de los anillos: El retorno del rey</titulo>
+        <enlace>https://www.imdb.com/title/tt0167260/?ref_=chttp_t_7</enlace>
+        <year>2003</year>
+        <duration>3h 21m</duration>
+        <director>Peter Jackson</director>
+    </pelicula>
+    <pelicula>
+        <titulo>8. Pulp Fiction</titulo>
+        <enlace>https://www.imdb.com/title/tt0110912/?ref_=chttp_t_8</enlace>
+        <year>1994</year>
+        <duration>2h 34m</duration>
+        <director>Quentin Tarantino</director>
+    </pelicula>
+    <pelicula>
+        <titulo>9. El señor de los anillos: La comunidad del anillo</titulo>
+        <enlace>https://www.imdb.com/title/tt0120737/?ref_=chttp_t_9</enlace>
+        <year>2001</year>
+        <duration>2h 58m</duration>
+        <director>Peter Jackson</director>
+    </pelicula>
+    <pelicula>
+        <titulo>10. El bueno, el feo y el malo</titulo>
+        <enlace>https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10</enlace>
+        <year>1966</year>
+        <duration>3h 2m</duration>
+        <director>Sergio Leone</director>
+    </pelicula>
+    <pelicula>
+        <titulo>11. Forrest Gump</titulo>
+        <enlace>https://www.imdb.com/title/tt0109830/?ref_=chttp_t_11</enlace>
+        <year>1994</year>
+        <duration>2h 22m</duration>
+        <director>Robert Zemeckis</director>
+    </pelicula>
+    <pelicula>
+        <titulo>12. El club de la lucha</titulo>
+        <enlace>https://www.imdb.com/title/tt0137523/?ref_=chttp_t_12</enlace>
+        <year>1999</year>
+        <duration>2h 19m</duration>
+        <director>David Fincher</director>
+    </pelicula>
+    <pelicula>
+        <titulo>13. El señor de los anillos: Las dos torres</titulo>
+        <enlace>https://www.imdb.com/title/tt0167261/?ref_=chttp_t_13</enlace>
+        <year>2002</year>
+        <duration>2h 59m</duration>
+        <director>Peter Jackson</director>
+    </pelicula>
+    <pelicula>
+        <titulo>14. Origen</titulo>
+        <enlace>https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14</enlace>
+        <year>2010</year>
+        <duration>2h 28m</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>15. El imperio contraataca</titulo>
+        <enlace>https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15</enlace>
+        <year>1980</year>
+        <duration>2h 4m</duration>
+        <director>Irvin Kershner</director>
+    </pelicula>
+    <pelicula>
+        <titulo>16. Matrix</titulo>
+        <enlace>https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16</enlace>
+        <year>1999</year>
+        <duration>2h 16m</duration>
+        <director>Lana Wachowski</director>
+    </pelicula>
+    <pelicula>
+        <titulo>17. Uno de los nuestros</titulo>
+        <enlace>https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17</enlace>
+        <year>1990</year>
+        <duration>2h 25m</duration>
+        <director>Martin Scorsese</director>
+    </pelicula>
+    <pelicula>
+        <titulo>18. Alguien voló sobre el nido del cuco</titulo>
+        <enlace>https://www.imdb.com/title/tt0073486/?ref_=chttp_t_18</enlace>
+        <year>1975</year>
+        <duration>2h 13m</duration>
+        <director>Milos Forman</director>
+    </pelicula>
+    <pelicula>
+        <titulo>19. Seven</titulo>
+        <enlace>https://www.imdb.com/title/tt0114369/?ref_=chttp_t_19</enlace>
+        <year>1995</year>
+        <duration>2h 7m</duration>
+        <director>David Fincher</director>
+    </pelicula>
+    <pelicula>
+        <titulo>20. ¡Qué bello es vivir!</titulo>
+        <enlace>https://www.imdb.com/title/tt0038650/?ref_=chttp_t_20</enlace>
+        <year>1946</year>
+        <duration>2h 10m</duration>
+        <director>Frank Capra</director>
+    </pelicula>
+    <pelicula>
+        <titulo>21. Los siete samuráis</titulo>
+        <enlace>https://www.imdb.com/title/tt0047478/?ref_=chttp_t_21</enlace>
+        <year>1954</year>
+        <duration>3h 27m</duration>
+        <director>Akira Kurosawa</director>
+    </pelicula>
+    <pelicula>
+        <titulo>22. Interstellar</titulo>
+        <enlace>https://www.imdb.com/title/tt0816692/?ref_=chttp_t_22</enlace>
+        <year>2014</year>
+        <duration>2h 49m</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>23. El silencio de los corderos</titulo>
+        <enlace>https://www.imdb.com/title/tt0102926/?ref_=chttp_t_23</enlace>
+        <year>1991</year>
+        <duration>1h 58m</duration>
+        <director>Jonathan Demme</director>
+    </pelicula>
+    <pelicula>
+        <titulo>24. Salvar al soldado Ryan</titulo>
+        <enlace>https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24</enlace>
+        <year>1998</year>
+        <duration>2h 49m</duration>
+        <director>Steven Spielberg</director>
+    </pelicula>
+    <pelicula>
+        <titulo>25. Ciudad de Dios</titulo>
+        <enlace>https://www.imdb.com/title/tt0317248/?ref_=chttp_t_25</enlace>
+        <year>2002</year>
+        <duration>2h 10m</duration>
+        <director>Fernando Meirelles</director>
+    </pelicula>
+    <pelicula>
+        <titulo>26. La vida es bella</titulo>
+        <enlace>https://www.imdb.com/title/tt0118799/?ref_=chttp_t_26</enlace>
+        <year>1997</year>
+        <duration>1h 56m</duration>
+        <director>Roberto Benigni</director>
+    </pelicula>
+    <pelicula>
+        <titulo>27. Spider-Man: Cruzando el multiverso</titulo>
+        <enlace>https://www.imdb.com/title/tt9362722/?ref_=chttp_t_27</enlace>
+        <year>2023</year>
+        <duration>2h 20m</duration>
+        <director>Joaquim Dos Santos</director>
+    </pelicula>
+    <pelicula>
+        <titulo>28. La milla verde</titulo>
+        <enlace>https://www.imdb.com/title/tt0120689/?ref_=chttp_t_28</enlace>
+        <year>1999</year>
+        <duration>3h 9m</duration>
+        <director>Frank Darabont</director>
+    </pelicula>
+    <pelicula>
+        <titulo>29. La guerra de las galaxias</titulo>
+        <enlace>https://www.imdb.com/title/tt0076759/?ref_=chttp_t_29</enlace>
+        <year>1977</year>
+        <duration>2h 1m</duration>
+        <director>George Lucas</director>
+    </pelicula>
+    <pelicula>
+        <titulo>30. Terminator 2: El juicio final</titulo>
+        <enlace>https://www.imdb.com/title/tt0103064/?ref_=chttp_t_30</enlace>
+        <year>1991</year>
+        <duration>2h 17m</duration>
+        <director>James Cameron</director>
+    </pelicula>
+    <pelicula>
+        <titulo>31. Regreso al futuro</titulo>
+        <enlace>https://www.imdb.com/title/tt0088763/?ref_=chttp_t_31</enlace>
+        <year>1985</year>
+        <duration>1h 56m</duration>
+        <director>Robert Zemeckis</director>
+    </pelicula>
+    <pelicula>
+        <titulo>32. El viaje de Chihiro</titulo>
+        <enlace>https://www.imdb.com/title/tt0245429/?ref_=chttp_t_32</enlace>
+        <year>2001</year>
+        <duration>2h 5m</duration>
+        <director>Hayao Miyazaki</director>
+    </pelicula>
+    <pelicula>
+        <titulo>33. El pianista</titulo>
+        <enlace>https://www.imdb.com/title/tt0253474/?ref_=chttp_t_33</enlace>
+        <year>2002</year>
+        <duration>2h 30m</duration>
+        <director>Roman Polanski</director>
+    </pelicula>
+    <pelicula>
+        <titulo>34. Psicosis</titulo>
+        <enlace>https://www.imdb.com/title/tt0054215/?ref_=chttp_t_34</enlace>
+        <year>1960</year>
+        <duration>1h 49m</duration>
+        <director>Alfred Hitchcock</director>
+    </pelicula>
+    <pelicula>
+        <titulo>35. Parásitos</titulo>
+        <enlace>https://www.imdb.com/title/tt6751668/?ref_=chttp_t_35</enlace>
+        <year>2019</year>
+        <duration>2h 12m</duration>
+        <director>Bong Joon Ho</director>
+    </pelicula>
+    <pelicula>
+        <titulo>36. Gladiator (El gladiador)</titulo>
+        <enlace>https://www.imdb.com/title/tt0172495/?ref_=chttp_t_36</enlace>
+        <year>2000</year>
+        <duration>2h 35m</duration>
+        <director>Ridley Scott</director>
+    </pelicula>
+    <pelicula>
+        <titulo>37. El rey león</titulo>
+        <enlace>https://www.imdb.com/title/tt0110357/?ref_=chttp_t_37</enlace>
+        <year>1994</year>
+        <duration>1h 28m</duration>
+        <director>Roger Allers</director>
+    </pelicula>
+    <pelicula>
+        <titulo>38. El profesional (Léon)</titulo>
+        <enlace>https://www.imdb.com/title/tt0110413/?ref_=chttp_t_38</enlace>
+        <year>1994</year>
+        <duration>1h 50m</duration>
+        <director>Luc Besson</director>
+    </pelicula>
+    <pelicula>
+        <titulo>39. American History X</titulo>
+        <enlace>https://www.imdb.com/title/tt0120586/?ref_=chttp_t_39</enlace>
+        <year>1998</year>
+        <duration>1h 59m</duration>
+        <director>Tony Kaye</director>
+    </pelicula>
+    <pelicula>
+        <titulo>40. Infiltrados</titulo>
+        <enlace>https://www.imdb.com/title/tt0407887/?ref_=chttp_t_40</enlace>
+        <year>2006</year>
+        <duration>2h 31m</duration>
+        <director>Martin Scorsese</director>
+    </pelicula>
+    <pelicula>
+        <titulo>41. Whiplash</titulo>
+        <enlace>https://www.imdb.com/title/tt2582802/?ref_=chttp_t_41</enlace>
+        <year>2014</year>
+        <duration>1h 46m</duration>
+        <director>Damien Chazelle</director>
+    </pelicula>
+    <pelicula>
+        <titulo>42. El truco final (El prestigio)</titulo>
+        <enlace>https://www.imdb.com/title/tt0482571/?ref_=chttp_t_42</enlace>
+        <year>2006</year>
+        <duration>2h 10m</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>43. Sospechosos habituales</titulo>
+        <enlace>https://www.imdb.com/title/tt0114814/?ref_=chttp_t_43</enlace>
+        <year>1995</year>
+        <duration>1h 46m</duration>
+        <director>Bryan Singer</director>
+    </pelicula>
+    <pelicula>
+        <titulo>44. La tumba de las luciérnagas</titulo>
+        <enlace>https://www.imdb.com/title/tt0095327/?ref_=chttp_t_44</enlace>
+        <year>1988</year>
+        <duration>1h 29m</duration>
+        <director>Isao Takahata</director>
+    </pelicula>
+    <pelicula>
+        <titulo>45. Harakiri</titulo>
+        <enlace>https://www.imdb.com/title/tt0056058/?ref_=chttp_t_45</enlace>
+        <year>1962</year>
+        <duration>2h 13m</duration>
+        <director>Masaki Kobayashi</director>
+    </pelicula>
+    <pelicula>
+        <titulo>46. Casablanca</titulo>
+        <enlace>https://www.imdb.com/title/tt0034583/?ref_=chttp_t_46</enlace>
+        <year>1942</year>
+        <duration>1h 42m</duration>
+        <director>Michael Curtiz</director>
+    </pelicula>
+    <pelicula>
+        <titulo>47. Intocable</titulo>
+        <enlace>https://www.imdb.com/title/tt1675434/?ref_=chttp_t_47</enlace>
+        <year>2011</year>
+        <duration>1h 52m</duration>
+        <director>Olivier Nakache</director>
+    </pelicula>
+    <pelicula>
+        <titulo>48. Tiempos modernos</titulo>
+        <enlace>https://www.imdb.com/title/tt0027977/?ref_=chttp_t_48</enlace>
+        <year>1936</year>
+        <duration>1h 27m</duration>
+        <director>Charles Chaplin</director>
+    </pelicula>
+    <pelicula>
+        <titulo>49. Cinema Paradiso</titulo>
+        <enlace>https://www.imdb.com/title/tt0095765/?ref_=chttp_t_49</enlace>
+        <year>1988</year>
+        <duration>2h 35m</duration>
+        <director>Giuseppe Tornatore</director>
+    </pelicula>
+    <pelicula>
+        <titulo>50. Hasta que llegó su hora</titulo>
+        <enlace>https://www.imdb.com/title/tt0064116/?ref_=chttp_t_50</enlace>
+        <year>1968</year>
+        <duration>2h 46m</duration>
+        <director>Sergio Leone</director>
+    </pelicula>
+    <pelicula>
+        <titulo>51. La ventana indiscreta</titulo>
+        <enlace>https://www.imdb.com/title/tt0047396/?ref_=chttp_t_51</enlace>
+        <year>1954</year>
+        <duration>1h 52m</duration>
+        <director>Alfred Hitchcock</director>
+    </pelicula>
+    <pelicula>
+        <titulo>52. Alien, el octavo pasajero</titulo>
+        <enlace>https://www.imdb.com/title/tt0078748/?ref_=chttp_t_52</enlace>
+        <year>1979</year>
+        <duration>1h 57m</duration>
+        <director>Ridley Scott</director>
+    </pelicula>
+    <pelicula>
+        <titulo>53. Luces de la ciudad</titulo>
+        <enlace>https://www.imdb.com/title/tt0021749/?ref_=chttp_t_53</enlace>
+        <year>1931</year>
+        <duration>1h 27m</duration>
+        <director>Charles Chaplin</director>
+    </pelicula>
+    <pelicula>
+        <titulo>54. Apocalypse Now</titulo>
+        <enlace>https://www.imdb.com/title/tt0078788/?ref_=chttp_t_54</enlace>
+        <year>1979</year>
+        <duration>2h 27m</duration>
+        <director>Francis Ford Coppola</director>
+    </pelicula>
+    <pelicula>
+        <titulo>55. Django desencadenado</titulo>
+        <enlace>https://www.imdb.com/title/tt1853728/?ref_=chttp_t_55</enlace>
+        <year>2012</year>
+        <duration>2h 45m</duration>
+        <director>Quentin Tarantino</director>
+    </pelicula>
+    <pelicula>
+        <titulo>56. Memento</titulo>
+        <enlace>https://www.imdb.com/title/tt0209144/?ref_=chttp_t_56</enlace>
+        <year>2000</year>
+        <duration>1h 53m</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>57. En busca del arca perdida</titulo>
+        <enlace>https://www.imdb.com/title/tt0082971/?ref_=chttp_t_57</enlace>
+        <year>1981</year>
+        <duration>1h 55m</duration>
+        <director>Steven Spielberg</director>
+    </pelicula>
+    <pelicula>
+        <titulo>58. WALL·E</titulo>
+        <enlace>https://www.imdb.com/title/tt0910970/?ref_=chttp_t_58</enlace>
+        <year>2008</year>
+        <duration>1h 38m</duration>
+        <director>Andrew Stanton</director>
+    </pelicula>
+    <pelicula>
+        <titulo>59. Oppenheimer</titulo>
+        <enlace>https://www.imdb.com/title/tt15398776/?ref_=chttp_t_59</enlace>
+        <year>2023</year>
+        <duration>3h</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>60. La vida de los otros</titulo>
+        <enlace>https://www.imdb.com/title/tt0405094/?ref_=chttp_t_60</enlace>
+        <year>2006</year>
+        <duration>2h 17m</duration>
+        <director>Florian Henckel von Donnersmarck</director>
+    </pelicula>
+    <pelicula>
+        <titulo>61. El crepúsculo de los dioses</titulo>
+        <enlace>https://www.imdb.com/title/tt0043014/?ref_=chttp_t_61</enlace>
+        <year>1950</year>
+        <duration>1h 50m</duration>
+        <director>Billy Wilder</director>
+    </pelicula>
+    <pelicula>
+        <titulo>62. Senderos de gloria</titulo>
+        <enlace>https://www.imdb.com/title/tt0050825/?ref_=chttp_t_62</enlace>
+        <year>1957</year>
+        <duration>1h 28m</duration>
+        <director>Stanley Kubrick</director>
+    </pelicula>
+    <pelicula>
+        <titulo>63. Vengadores: Infinity War</titulo>
+        <enlace>https://www.imdb.com/title/tt4154756/?ref_=chttp_t_63</enlace>
+        <year>2018</year>
+        <duration>2h 29m</duration>
+        <director>Anthony Russo</director>
+    </pelicula>
+    <pelicula>
+        <titulo>64. El resplandor</titulo>
+        <enlace>https://www.imdb.com/title/tt0081505/?ref_=chttp_t_64</enlace>
+        <year>1980</year>
+        <duration>2h 26m</duration>
+        <director>Stanley Kubrick</director>
+    </pelicula>
+    <pelicula>
+        <titulo>65. El gran dictador</titulo>
+        <enlace>https://www.imdb.com/title/tt0032553/?ref_=chttp_t_65</enlace>
+        <year>1940</year>
+        <duration>2h 5m</duration>
+        <director>Charles Chaplin</director>
+    </pelicula>
+    <pelicula>
+        <titulo>66. Testigo de cargo</titulo>
+        <enlace>https://www.imdb.com/title/tt0051201/?ref_=chttp_t_66</enlace>
+        <year>1957</year>
+        <duration>1h 56m</duration>
+        <director>Billy Wilder</director>
+    </pelicula>
+    <pelicula>
+        <titulo>67. Spider-Man: Un nuevo universo</titulo>
+        <enlace>https://www.imdb.com/title/tt4633694/?ref_=chttp_t_67</enlace>
+        <year>2018</year>
+        <duration>1h 57m</duration>
+        <director>Bob Persichetti</director>
+    </pelicula>
+    <pelicula>
+        <titulo>68. Aliens: El regreso</titulo>
+        <enlace>https://www.imdb.com/title/tt0090605/?ref_=chttp_t_68</enlace>
+        <year>1986</year>
+        <duration>2h 17m</duration>
+        <director>James Cameron</director>
+    </pelicula>
+    <pelicula>
+        <titulo>69. Malditos bastardos</titulo>
+        <enlace>https://www.imdb.com/title/tt0361748/?ref_=chttp_t_69</enlace>
+        <year>2009</year>
+        <duration>2h 33m</duration>
+        <director>Quentin Tarantino</director>
+    </pelicula>
+    <pelicula>
+        <titulo>70. El caballero oscuro: La leyenda renace</titulo>
+        <enlace>https://www.imdb.com/title/tt1345836/?ref_=chttp_t_70</enlace>
+        <year>2012</year>
+        <duration>2h 44m</duration>
+        <director>Christopher Nolan</director>
+    </pelicula>
+    <pelicula>
+        <titulo>71. American Beauty</titulo>
+        <enlace>https://www.imdb.com/title/tt0169547/?ref_=chttp_t_71</enlace>
+        <year>1999</year>
+        <duration>2h 2m</duration>
+        <director>Sam Mendes</director>
+    </pelicula>
+    <pelicula>
+        <titulo>72. ¿Teléfono rojo? Volamos hacia Moscú</titulo>
+        <enlace>https://www.imdb.com/title/tt0057012/?ref_=chttp_t_72</enlace>
+        <year>1964</year>
+        <duration>1h 35m</duration>
+        <director>Stanley Kubrick</director>
+    </pelicula>
+    <pelicula>
+        <titulo>73. Old Boy</titulo>
+        <enlace>https://www.imdb.com/title/tt0364569/?ref_=chttp_t_73</enlace>
+        <year>2003</year>
+        <duration>2h</duration>
+        <director>Park Chan-wook</director>
+    </pelicula>
+    <pelicula>
+        <titulo>74. Coco</titulo>
+        <enlace>https://www.imdb.com/title/tt2380307/?ref_=chttp_t_74</enlace>
+        <year>2017</year>
+        <duration>1h 45m</duration>
+        <director>Lee Unkrich</director>
+    </pelicula>
+    <pelicula>
+        <titulo>75. Amadeus</titulo>
+        <enlace>https://www.imdb.com/title/tt0086879/?ref_=chttp_t_75</enlace>
+        <year>1984</year>
+        <duration>2h 40m</duration>
+        <director>Milos Forman</director>
+    </pelicula>
+    <pelicula>
+        <titulo>76. Toy Story</titulo>
+        <enlace>https://www.imdb.com/title/tt0114709/?ref_=chttp_t_76</enlace>
+        <year>1995</year>
+        <duration>1h 21m</duration>
+        <director>John Lasseter</director>
+    </pelicula>
+    <pelicula>
+        <titulo>77. El submarino (Das Boot)</titulo>
+        <enlace>https://www.imdb.com/title/tt0082096/?ref_=chttp_t_77</enlace>
+        <year>1981</year>
+        <duration>2h 29m</duration>
+        <director>Wolfgang Petersen</director>
+    </pelicula>
+    <pelicula>
+        <titulo>78. Braveheart</titulo>
+        <enlace>https://www.imdb.com/title/tt0112573/?ref_=chttp_t_78</enlace>
+        <year>1995</year>
+        <duration>2h 58m</duration>
+        <director>Mel Gibson</director>
+    </pelicula>
+    <pelicula>
+        <titulo>79. Vengadores: Endgame</titulo>
+        <enlace>https://www.imdb.com/title/tt4154796/?ref_=chttp_t_79</enlace>
+        <year>2019</year>
+        <duration>3h 1m</duration>
+        <director>Anthony Russo</director>
+    </pelicula>
+    <pelicula>
+        <titulo>80. Joker</titulo>
+        <enlace>https://www.imdb.com/title/tt7286456/?ref_=chttp_t_80</enlace>
+        <year>2019</year>
+        <duration>2h 2m</duration>
+        <director>Todd Phillips</director>
+    </pelicula>
+    <pelicula>
+        <titulo>81. La princesa Mononoke</titulo>
+        <enlace>https://www.imdb.com/title/tt0119698/?ref_=chttp_t_81</enlace>
+        <year>1997</year>
+        <duration>2h 14m</duration>
+        <director>Hayao Miyazaki</director>
+    </pelicula>
+    <pelicula>
+        <titulo>82. El indomable Will Hunting</titulo>
+        <enlace>https://www.imdb.com/title/tt0119217/?ref_=chttp_t_82</enlace>
+        <year>1997</year>
+        <duration>2h 6m</duration>
+        <director>Gus Van Sant</director>
+    </pelicula>
+    <pelicula>
+        <titulo>83. Your Name.</titulo>
+        <enlace>https://www.imdb.com/title/tt5311514/?ref_=chttp_t_83</enlace>
+        <year>2016</year>
+        <duration>1h 46m</duration>
+        <director>Makoto Shinkai</director>
+    </pelicula>
+    <pelicula>
+        <titulo>84. Érase una vez en América</titulo>
+        <enlace>https://www.imdb.com/title/tt0087843/?ref_=chttp_t_84</enlace>
+        <year>1984</year>
+        <duration>3h 49m</duration>
+        <director>Sergio Leone</director>
+    </pelicula>
+    <pelicula>
+        <titulo>85. El infierno del odio</titulo>
+        <enlace>https://www.imdb.com/title/tt0057565/?ref_=chttp_t_85</enlace>
+        <year>1963</year>
+        <duration>2h 23m</duration>
+        <director>Akira Kurosawa</director>
+    </pelicula>
+    <pelicula>
+        <titulo>86. 3 Idiots</titulo>
+        <enlace>https://www.imdb.com/title/tt1187043/?ref_=chttp_t_86</enlace>
+        <year>2009</year>
+        <duration>2h 50m</duration>
+        <director>Rajkumar Hirani</director>
+    </pelicula>
+    <pelicula>
+        <titulo>87. Cantando bajo la lluvia</titulo>
+        <enlace>https://www.imdb.com/title/tt0045152/?ref_=chttp_t_87</enlace>
+        <year>1952</year>
+        <duration>1h 43m</duration>
+        <director>Stanley Donen</director>
+    </pelicula>
+    <pelicula>
+        <titulo>88. Cafarnaúm</titulo>
+        <enlace>https://www.imdb.com/title/tt8267604/?ref_=chttp_t_88</enlace>
+        <year>2018</year>
+        <duration>2h 6m</duration>
+        <director>Nadine Labaki</director>
+    </pelicula>
+    <pelicula>
+        <titulo>89. Réquiem por un sueño</titulo>
+        <enlace>https://www.imdb.com/title/tt0180093/?ref_=chttp_t_89</enlace>
+        <year>2000</year>
+        <duration>1h 42m</duration>
+        <director>Darren Aronofsky</director>
+    </pelicula>
+    <pelicula>
+        <titulo>90. Masacre (Ven y mira)</titulo>
+        <enlace>https://www.imdb.com/title/tt0091251/?ref_=chttp_t_90</enlace>
+        <year>1985</year>
+        <duration>2h 22m</duration>
+        <director>Elem Klimov</director>
+    </pelicula>
+    <pelicula>
+        <titulo>91. Toy Story 3</titulo>
+        <enlace>https://www.imdb.com/title/tt0435761/?ref_=chttp_t_91</enlace>
+        <year>2010</year>
+        <duration>1h 43m</duration>
+        <director>Lee Unkrich</director>
+    </pelicula>
+    <pelicula>
+        <titulo>92. El retorno del jedi</titulo>
+        <enlace>https://www.imdb.com/title/tt0086190/?ref_=chttp_t_92</enlace>
+        <year>1983</year>
+        <duration>2h 11m</duration>
+        <director>Richard Marquand</director>
+    </pelicula>
+    <pelicula>
+        <titulo>93. ¡Olvídate de mí!</titulo>
+        <enlace>https://www.imdb.com/title/tt0338013/?ref_=chttp_t_93</enlace>
+        <year>2004</year>
+        <duration>1h 48m</duration>
+        <director>Michel Gondry</director>
+    </pelicula>
+    <pelicula>
+        <titulo>94. 2001: Una odisea del espacio</titulo>
+        <enlace>https://www.imdb.com/title/tt0062622/?ref_=chttp_t_94</enlace>
+        <year>1968</year>
+        <duration>2h 29m</duration>
+        <director>Stanley Kubrick</director>
+    </pelicula>
+    <pelicula>
+        <titulo>95. La caza</titulo>
+        <enlace>https://www.imdb.com/title/tt2106476/?ref_=chttp_t_95</enlace>
+        <year>2012</year>
+        <duration>1h 55m</duration>
+        <director>Thomas Vinterberg</director>
+    </pelicula>
+    <pelicula>
+        <titulo>96. Reservoir Dogs</titulo>
+        <enlace>https://www.imdb.com/title/tt0105236/?ref_=chttp_t_96</enlace>
+        <year>1992</year>
+        <duration>1h 39m</duration>
+        <director>Quentin Tarantino</director>
+    </pelicula>
+    <pelicula>
+        <titulo>97. Vivir</titulo>
+        <enlace>https://www.imdb.com/title/tt0044741/?ref_=chttp_t_97</enlace>
+        <year>1952</year>
+        <duration>2h 23m</duration>
+        <director>Akira Kurosawa</director>
+    </pelicula>
+    <pelicula>
+        <titulo>98. Lawrence de Arabia</titulo>
+        <enlace>https://www.imdb.com/title/tt0056172/?ref_=chttp_t_98</enlace>
+        <year>1962</year>
+        <duration>3h 38m</duration>
+        <director>David Lean</director>
+    </pelicula>
+    <pelicula>
+        <titulo>99. El apartamento</titulo>
+        <enlace>https://www.imdb.com/title/tt0053604/?ref_=chttp_t_99</enlace>
+        <year>1960</year>
+        <duration>2h 5m</duration>
+        <director>Billy Wilder</director>
+    </pelicula>
+    <pelicula>
+        <titulo>100. Ciudadano Kane</titulo>
+        <enlace>https://www.imdb.com/title/tt0033467/?ref_=chttp_t_100</enlace>
+        <year>1941</year>
+        <duration>1h 59m</duration>
+        <director>Orson Welles</director>
+    </pelicula>
+</peliculas>
