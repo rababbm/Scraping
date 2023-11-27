@@ -21,7 +21,7 @@ cd tu_proyecto
 
     El programa abrirá Firefox, accederá a la página web de IMDb y extraerá datos de las películas.
 
-Estrategia Utilizada
+2. Estrategia Utilizada
 
 El proyecto utiliza Selenium para la automatización del navegador. Se realiza la extracción de datos de las películas mejor valoradas en IMDb, incluyendo título, enlace, año y duración. Además, se recopila información sobre los directores.
 Estructura del Proyecto
