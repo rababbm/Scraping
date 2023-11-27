@@ -34,9 +34,9 @@ Estructura del Proyecto
     peliculas.xml: Archivo XML con información sobre las películas.
 
 
-```bash
-DIAGRAMA DE CLASE
 ```
+## Diagrama de clases 
+
 
 
 
