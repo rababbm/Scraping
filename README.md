@@ -39,4 +39,4 @@ Rabab Beihaqi
 
 ```
 Diagrma de clases
-![](/home/rabab/Descargas/DIAGRAM.png)
+![](123.png)
