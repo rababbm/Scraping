@@ -23,7 +23,7 @@ cd tu_proyecto
 ```
 
 2. Estrategia Utilizada
-
+```bash
 El proyecto utiliza Selenium para la automatización del navegador. Se realiza la extracción de datos de las películas mejor valoradas en IMDb, incluyendo título, enlace, año y duración. Además, se recopila información sobre los directores.
 Estructura del Proyecto
 
@@ -35,12 +35,12 @@ Estructura del Proyecto
 
 
 
-Autor
-Rabab Beihaqi
-
 DIAGRAMA DE CLASE
 ```
 
 
 
 ![](123.png)
+
+Autor
+Rabab Beihaqi
