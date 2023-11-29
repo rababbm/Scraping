@@ -17,6 +17,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Pattern;
 
 /**
@@ -30,11 +31,14 @@ import java.util.regex.Pattern;
 public class Main {
   /**
    * Método principal que inicia el proceso de extracción de datos.
-   *
-   * @param args Argumentos de línea de comandos (no se utilizan en este caso).
+   *@param //args Argumentos de la línea de comandos (no se utilizan actualmente).
    */
+  private static List<String> obtenerReparto(int indice, List<List<String>> repartos) {
+    return repartos.get(indice);
+  }
   public static void main(String[] args) {
-
+    // Lista para almacenar información del reparto de cada película
+    List<List<String>> repartosPeliculas = new ArrayList<>();
     // Imprimir las rutas del sistema
     System.out.println(System.getenv("PATH"));
     System.out.println(System.getenv("HOME"));
@@ -94,6 +98,9 @@ public class Main {
         data.add(new String[]{titulo, enlace, year, duration});
       }
     }
+    // Lista para CSV del reparto:
+    List<String[]> dataReparto = new ArrayList<>();
+    dataReparto.add(new String[]{"Enlace pelicula", "Actor principal 1", "Actor principal 2", "Actor principal 3"});
     // Itera sobre cada enlace y haz clic en él
     for (String enlace : enlaces) {
       // Abrir enlace
@@ -105,14 +112,25 @@ public class Main {
       System.out.println("Nombre del director: " + nombreDirector);
       // Agregar información del director y reparto a la lista
       dataDirectores.add(new String[]{nombreDirector});
-      /*
-      //ESCRITOR
-      WebElement elementoB = driver.findElement(By.cssSelector("a.ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link"));
-      String escritores = elementoB.getText();
-      System.out.println("Nombre escritor: " + escritores);
-      WebDriverWait wait = new WebDriverWait(driver, 15);
-      wait.until(ExpectedConditions.jsReturnsValue("return document.readyState === 'complete';"));
-*/
+
+      //REPARTO
+
+      WebDriverWait wait = new WebDriverWait(driver,15); //CUIDADO, cada vez q cierras cabia el cssselector de tabla, hay que modificarlo
+      WebElement tabla = wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".sc-69e49b85-3 > div:nth-child(1) > ul:nth-child(1) > li:nth-child(3) > div:nth-child(2)")));
+
+      List<WebElement> lista = tabla.findElements(By.tagName("li"));
+      List<String> repartosPelicula = new ArrayList<>();  // Cambiado el nombre de la lista
+
+
+      for (WebElement li : lista) {
+        repartosPelicula.add(li.findElement(By.tagName("a")).getText());
+        System.out.println(li.findElement(By.tagName("a")).getText());
+      }
+      // Agrega el enlace a cada fila del CSV del reparto
+      repartosPelicula.add(0, enlace);
+      dataReparto.add(repartosPelicula.toArray(new String[0]));
+      repartosPeliculas.add(repartosPelicula);
+
     }
 
     // CSV
@@ -123,6 +141,11 @@ public class Main {
     }
     try (CSVWriter writer = new CSVWriter(new FileWriter("/home/rabab/DAM2/Acces a dades/Peliculas/directores.csv"))) {
       writer.writeAll(dataDirectores);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+    try (CSVWriter writer = new CSVWriter(new FileWriter("/home/rabab/DAM2/Acces a dades/Peliculas/reparto.csv"))) {
+      writer.writeAll(dataReparto);
     } catch (IOException e) {
       e.printStackTrace();
     }
@@ -163,7 +186,24 @@ public class Main {
         Element directorElement = doc.createElement("director");
         directorElement.appendChild(doc.createTextNode(dataDirectores.get(i)[0]));
         peliculaElement.appendChild(directorElement);
+
+        // Añadir información del reparto al XML
+        Element repartoElement = doc.createElement("reparto");
+
+        // Obtener información del reparto de la lista repartosPeliculas
+        List<String> repartos = repartosPeliculas.get(i - 1);
+
+        // Agregar elementos de actor al elemento de reparto
+        for (String actor : repartos) {
+          Element actorElement = doc.createElement("actor");
+          actorElement.appendChild(doc.createTextNode(actor));
+          repartoElement.appendChild(actorElement);
+        }
+
+        // Adjuntar el elemento de reparto a la estructura de la película en el XML
+        peliculaElement.appendChild(repartoElement);
       }
+
 
       // Guardar el documento XML en un archivo
       File xmlFile = new File("/home/rabab/DAM2/Acces a dades/Peliculas/peliculas.xml");
@@ -177,9 +217,8 @@ public class Main {
 
     } catch (Exception e) {
       e.printStackTrace();
-
     }
 
-
   }
+
 }
