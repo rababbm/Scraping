@@ -35,7 +35,7 @@ Estructura del Proyecto
 
 
 ```
-``bash
+
 ## Diagrama de clases 
 
 
