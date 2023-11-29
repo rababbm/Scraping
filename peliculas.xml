@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<peliculas>
+    <pelicula>
+        <titulo>1. Cadena perpetua</titulo>
+        <enlace>https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1</enlace>
+        <year>1994</year>
+        <duration>2h 22m</duration>
+        <director>Frank Darabont</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1</actor>
+            <actor>Tim Robbins</actor>
+            <actor>Morgan Freeman</actor>
+            <actor>Bob Gunton</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>2. El padrino</titulo>
+        <enlace>https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2</enlace>
+        <year>1972</year>
+        <duration>2h 55m</duration>
+        <director>Francis Ford Coppola</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2</actor>
+            <actor>Marlon Brando</actor>
+            <actor>Al Pacino</actor>
+            <actor>James Caan</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>3. El caballero oscuro</titulo>
+        <enlace>https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3</enlace>
+        <year>2008</year>
+        <duration>2h 32m</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3</actor>
+            <actor>Christian Bale</actor>
+            <actor>Heath Ledger</actor>
+            <actor>Aaron Eckhart</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>4. El padrino parte II</titulo>
+        <enlace>https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4</enlace>
+        <year>1974</year>
+        <duration>3h 22m</duration>
+        <director>Francis Ford Coppola</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4</actor>
+            <actor>Al Pacino</actor>
+            <actor>Robert De Niro</actor>
+            <actor>Robert Duvall</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>5. 12 hombres sin piedad</titulo>
+        <enlace>https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5</enlace>
+        <year>1957</year>
+        <duration>1h 36m</duration>
+        <director>Sidney Lumet</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5</actor>
+            <actor>Henry Fonda</actor>
+            <actor>Lee J. Cobb</actor>
+            <actor>Martin Balsam</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>6. La lista de Schindler</titulo>
+        <enlace>https://www.imdb.com/title/tt0108052/?ref_=chttp_t_6</enlace>
+        <year>1993</year>
+        <duration>3h 15m</duration>
+        <director>Steven Spielberg</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0108052/?ref_=chttp_t_6</actor>
+            <actor>Liam Neeson</actor>
+            <actor>Ralph Fiennes</actor>
+            <actor>Ben Kingsley</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>7. El señor de los anillos: El retorno del rey</titulo>
+        <enlace>https://www.imdb.com/title/tt0167260/?ref_=chttp_t_7</enlace>
+        <year>2003</year>
+        <duration>3h 21m</duration>
+        <director>Peter Jackson</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0167260/?ref_=chttp_t_7</actor>
+            <actor>Elijah Wood</actor>
+            <actor>Viggo Mortensen</actor>
+            <actor>Ian McKellen</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>8. Pulp Fiction</titulo>
+        <enlace>https://www.imdb.com/title/tt0110912/?ref_=chttp_t_8</enlace>
+        <year>1994</year>
+        <duration>2h 34m</duration>
+        <director>Quentin Tarantino</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0110912/?ref_=chttp_t_8</actor>
+            <actor>John Travolta</actor>
+            <actor>Uma Thurman</actor>
+            <actor>Samuel L. Jackson</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>9. El señor de los anillos: La comunidad del anillo</titulo>
+        <enlace>https://www.imdb.com/title/tt0120737/?ref_=chttp_t_9</enlace>
+        <year>2001</year>
+        <duration>2h 58m</duration>
+        <director>Peter Jackson</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0120737/?ref_=chttp_t_9</actor>
+            <actor>Elijah Wood</actor>
+            <actor>Ian McKellen</actor>
+            <actor>Orlando Bloom</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>10. El bueno, el feo y el malo</titulo>
+        <enlace>https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10</enlace>
+        <year>1966</year>
+        <duration>3h 2m</duration>
+        <director>Sergio Leone</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10</actor>
+            <actor>Clint Eastwood</actor>
+            <actor>Eli Wallach</actor>
+            <actor>Lee Van Cleef</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>11. Forrest Gump</titulo>
+        <enlace>https://www.imdb.com/title/tt0109830/?ref_=chttp_t_11</enlace>
+        <year>1994</year>
+        <duration>2h 22m</duration>
+        <director>Robert Zemeckis</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0109830/?ref_=chttp_t_11</actor>
+            <actor>Tom Hanks</actor>
+            <actor>Robin Wright</actor>
+            <actor>Gary Sinise</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>12. El club de la lucha</titulo>
+        <enlace>https://www.imdb.com/title/tt0137523/?ref_=chttp_t_12</enlace>
+        <year>1999</year>
+        <duration>2h 19m</duration>
+        <director>David Fincher</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0137523/?ref_=chttp_t_12</actor>
+            <actor>Brad Pitt</actor>
+            <actor>Edward Norton</actor>
+            <actor>Meat Loaf</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>13. El señor de los anillos: Las dos torres</titulo>
+        <enlace>https://www.imdb.com/title/tt0167261/?ref_=chttp_t_13</enlace>
+        <year>2002</year>
+        <duration>2h 59m</duration>
+        <director>Peter Jackson</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0167261/?ref_=chttp_t_13</actor>
+            <actor>Elijah Wood</actor>
+            <actor>Ian McKellen</actor>
+            <actor>Viggo Mortensen</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>14. Origen</titulo>
+        <enlace>https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14</enlace>
+        <year>2010</year>
+        <duration>2h 28m</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14</actor>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+            <actor>Elliot Page</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>15. El imperio contraataca</titulo>
+        <enlace>https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15</enlace>
+        <year>1980</year>
+        <duration>2h 4m</duration>
+        <director>Irvin Kershner</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15</actor>
+            <actor>Mark Hamill</actor>
+            <actor>Harrison Ford</actor>
+            <actor>Carrie Fisher</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>16. Matrix</titulo>
+        <enlace>https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16</enlace>
+        <year>1999</year>
+        <duration>2h 16m</duration>
+        <director>Lana Wachowski</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16</actor>
+            <actor>Keanu Reeves</actor>
+            <actor>Laurence Fishburne</actor>
+            <actor>Carrie-Anne Moss</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>17. Uno de los nuestros</titulo>
+        <enlace>https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17</enlace>
+        <year>1990</year>
+        <duration>2h 25m</duration>
+        <director>Martin Scorsese</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17</actor>
+            <actor>Robert De Niro</actor>
+            <actor>Ray Liotta</actor>
+            <actor>Joe Pesci</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>18. Alguien voló sobre el nido del cuco</titulo>
+        <enlace>https://www.imdb.com/title/tt0073486/?ref_=chttp_t_18</enlace>
+        <year>1975</year>
+        <duration>2h 13m</duration>
+        <director>Milos Forman</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0073486/?ref_=chttp_t_18</actor>
+            <actor>Jack Nicholson</actor>
+            <actor>Louise Fletcher</actor>
+            <actor>Michael Berryman</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>19. Seven</titulo>
+        <enlace>https://www.imdb.com/title/tt0114369/?ref_=chttp_t_19</enlace>
+        <year>1995</year>
+        <duration>2h 7m</duration>
+        <director>David Fincher</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0114369/?ref_=chttp_t_19</actor>
+            <actor>Morgan Freeman</actor>
+            <actor>Brad Pitt</actor>
+            <actor>Kevin Spacey</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>20. ¡Qué bello es vivir!</titulo>
+        <enlace>https://www.imdb.com/title/tt0038650/?ref_=chttp_t_20</enlace>
+        <year>1946</year>
+        <duration>2h 10m</duration>
+        <director>Frank Capra</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0038650/?ref_=chttp_t_20</actor>
+            <actor>James Stewart</actor>
+            <actor>Donna Reed</actor>
+            <actor>Lionel Barrymore</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>21. Los siete samuráis</titulo>
+        <enlace>https://www.imdb.com/title/tt0047478/?ref_=chttp_t_21</enlace>
+        <year>1954</year>
+        <duration>3h 27m</duration>
+        <director>Akira Kurosawa</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0047478/?ref_=chttp_t_21</actor>
+            <actor>Toshirô Mifune</actor>
+            <actor>Takashi Shimura</actor>
+            <actor>Keiko Tsushima</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>22. Interstellar</titulo>
+        <enlace>https://www.imdb.com/title/tt0816692/?ref_=chttp_t_22</enlace>
+        <year>2014</year>
+        <duration>2h 49m</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0816692/?ref_=chttp_t_22</actor>
+            <actor>Matthew McConaughey</actor>
+            <actor>Anne Hathaway</actor>
+            <actor>Jessica Chastain</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>23. El silencio de los corderos</titulo>
+        <enlace>https://www.imdb.com/title/tt0102926/?ref_=chttp_t_23</enlace>
+        <year>1991</year>
+        <duration>1h 58m</duration>
+        <director>Jonathan Demme</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0102926/?ref_=chttp_t_23</actor>
+            <actor>Jodie Foster</actor>
+            <actor>Anthony Hopkins</actor>
+            <actor>Scott Glenn</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>24. Salvar al soldado Ryan</titulo>
+        <enlace>https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24</enlace>
+        <year>1998</year>
+        <duration>2h 49m</duration>
+        <director>Steven Spielberg</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24</actor>
+            <actor>Tom Hanks</actor>
+            <actor>Matt Damon</actor>
+            <actor>Tom Sizemore</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>25. Ciudad de Dios</titulo>
+        <enlace>https://www.imdb.com/title/tt0317248/?ref_=chttp_t_25</enlace>
+        <year>2002</year>
+        <duration>2h 10m</duration>
+        <director>Fernando Meirelles</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0317248/?ref_=chttp_t_25</actor>
+            <actor>Alexandre Rodrigues</actor>
+            <actor>Leandro Firmino</actor>
+            <actor>Matheus Nachtergaele</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>26. La vida es bella</titulo>
+        <enlace>https://www.imdb.com/title/tt0118799/?ref_=chttp_t_26</enlace>
+        <year>1997</year>
+        <duration>1h 56m</duration>
+        <director>Roberto Benigni</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0118799/?ref_=chttp_t_26</actor>
+            <actor>Roberto Benigni</actor>
+            <actor>Nicoletta Braschi</actor>
+            <actor>Giorgio Cantarini</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>27. La milla verde</titulo>
+        <enlace>https://www.imdb.com/title/tt0120689/?ref_=chttp_t_27</enlace>
+        <year>1999</year>
+        <duration>3h 9m</duration>
+        <director>Frank Darabont</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0120689/?ref_=chttp_t_27</actor>
+            <actor>Tom Hanks</actor>
+            <actor>Michael Clarke Duncan</actor>
+            <actor>David Morse</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>28. Spider-Man: Cruzando el multiverso</titulo>
+        <enlace>https://www.imdb.com/title/tt9362722/?ref_=chttp_t_28</enlace>
+        <year>2023</year>
+        <duration>2h 20m</duration>
+        <director>Joaquim Dos Santos</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt9362722/?ref_=chttp_t_28</actor>
+            <actor>Shameik Moore</actor>
+            <actor>Hailee Steinfeld</actor>
+            <actor>Brian Tyree Henry</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>29. La guerra de las galaxias</titulo>
+        <enlace>https://www.imdb.com/title/tt0076759/?ref_=chttp_t_29</enlace>
+        <year>1977</year>
+        <duration>2h 1m</duration>
+        <director>George Lucas</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0076759/?ref_=chttp_t_29</actor>
+            <actor>Mark Hamill</actor>
+            <actor>Harrison Ford</actor>
+            <actor>Carrie Fisher</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>30. Terminator 2: El juicio final</titulo>
+        <enlace>https://www.imdb.com/title/tt0103064/?ref_=chttp_t_30</enlace>
+        <year>1991</year>
+        <duration>2h 17m</duration>
+        <director>James Cameron</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0103064/?ref_=chttp_t_30</actor>
+            <actor>Arnold Schwarzenegger</actor>
+            <actor>Linda Hamilton</actor>
+            <actor>Edward Furlong</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>31. Regreso al futuro</titulo>
+        <enlace>https://www.imdb.com/title/tt0088763/?ref_=chttp_t_31</enlace>
+        <year>1985</year>
+        <duration>1h 56m</duration>
+        <director>Robert Zemeckis</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0088763/?ref_=chttp_t_31</actor>
+            <actor>Michael J. Fox</actor>
+            <actor>Christopher Lloyd</actor>
+            <actor>Lea Thompson</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>32. El viaje de Chihiro</titulo>
+        <enlace>https://www.imdb.com/title/tt0245429/?ref_=chttp_t_32</enlace>
+        <year>2001</year>
+        <duration>2h 5m</duration>
+        <director>Hayao Miyazaki</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0245429/?ref_=chttp_t_32</actor>
+            <actor>Daveigh Chase</actor>
+            <actor>Suzanne Pleshette</actor>
+            <actor>Miyu Irino</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>33. El pianista</titulo>
+        <enlace>https://www.imdb.com/title/tt0253474/?ref_=chttp_t_33</enlace>
+        <year>2002</year>
+        <duration>2h 30m</duration>
+        <director>Roman Polanski</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0253474/?ref_=chttp_t_33</actor>
+            <actor>Adrien Brody</actor>
+            <actor>Thomas Kretschmann</actor>
+            <actor>Frank Finlay</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>34. Psicosis</titulo>
+        <enlace>https://www.imdb.com/title/tt0054215/?ref_=chttp_t_34</enlace>
+        <year>1960</year>
+        <duration>1h 49m</duration>
+        <director>Alfred Hitchcock</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0054215/?ref_=chttp_t_34</actor>
+            <actor>Anthony Perkins</actor>
+            <actor>Janet Leigh</actor>
+            <actor>Vera Miles</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>35. Parásitos</titulo>
+        <enlace>https://www.imdb.com/title/tt6751668/?ref_=chttp_t_35</enlace>
+        <year>2019</year>
+        <duration>2h 12m</duration>
+        <director>Bong Joon Ho</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt6751668/?ref_=chttp_t_35</actor>
+            <actor>Song Kang-ho</actor>
+            <actor>Lee Sun-kyun</actor>
+            <actor>Cho Yeo-jeong</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>36. Gladiator (El gladiador)</titulo>
+        <enlace>https://www.imdb.com/title/tt0172495/?ref_=chttp_t_36</enlace>
+        <year>2000</year>
+        <duration>2h 35m</duration>
+        <director>Ridley Scott</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0172495/?ref_=chttp_t_36</actor>
+            <actor>Russell Crowe</actor>
+            <actor>Joaquin Phoenix</actor>
+            <actor>Connie Nielsen</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>37. El rey león</titulo>
+        <enlace>https://www.imdb.com/title/tt0110357/?ref_=chttp_t_37</enlace>
+        <year>1994</year>
+        <duration>1h 28m</duration>
+        <director>Roger Allers</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0110357/?ref_=chttp_t_37</actor>
+            <actor>Matthew Broderick</actor>
+            <actor>Jeremy Irons</actor>
+            <actor>James Earl Jones</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>38. El profesional (Léon)</titulo>
+        <enlace>https://www.imdb.com/title/tt0110413/?ref_=chttp_t_38</enlace>
+        <year>1994</year>
+        <duration>1h 50m</duration>
+        <director>Luc Besson</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0110413/?ref_=chttp_t_38</actor>
+            <actor>Jean Reno</actor>
+            <actor>Gary Oldman</actor>
+            <actor>Natalie Portman</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>39. American History X</titulo>
+        <enlace>https://www.imdb.com/title/tt0120586/?ref_=chttp_t_39</enlace>
+        <year>1998</year>
+        <duration>1h 59m</duration>
+        <director>Tony Kaye</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0120586/?ref_=chttp_t_39</actor>
+            <actor>Edward Norton</actor>
+            <actor>Edward Furlong</actor>
+            <actor>Beverly D'Angelo</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>40. Infiltrados</titulo>
+        <enlace>https://www.imdb.com/title/tt0407887/?ref_=chttp_t_40</enlace>
+        <year>2006</year>
+        <duration>2h 31m</duration>
+        <director>Martin Scorsese</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0407887/?ref_=chttp_t_40</actor>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Matt Damon</actor>
+            <actor>Jack Nicholson</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>41. Whiplash</titulo>
+        <enlace>https://www.imdb.com/title/tt2582802/?ref_=chttp_t_41</enlace>
+        <year>2014</year>
+        <duration>1h 46m</duration>
+        <director>Damien Chazelle</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt2582802/?ref_=chttp_t_41</actor>
+            <actor>Miles Teller</actor>
+            <actor>J.K. Simmons</actor>
+            <actor>Melissa Benoist</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>42. El truco final (El prestigio)</titulo>
+        <enlace>https://www.imdb.com/title/tt0482571/?ref_=chttp_t_42</enlace>
+        <year>2006</year>
+        <duration>2h 10m</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0482571/?ref_=chttp_t_42</actor>
+            <actor>Christian Bale</actor>
+            <actor>Hugh Jackman</actor>
+            <actor>Scarlett Johansson</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>43. Sospechosos habituales</titulo>
+        <enlace>https://www.imdb.com/title/tt0114814/?ref_=chttp_t_43</enlace>
+        <year>1995</year>
+        <duration>1h 46m</duration>
+        <director>Bryan Singer</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0114814/?ref_=chttp_t_43</actor>
+            <actor>Kevin Spacey</actor>
+            <actor>Gabriel Byrne</actor>
+            <actor>Chazz Palminteri</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>44. La tumba de las luciérnagas</titulo>
+        <enlace>https://www.imdb.com/title/tt0095327/?ref_=chttp_t_44</enlace>
+        <year>1988</year>
+        <duration>1h 29m</duration>
+        <director>Isao Takahata</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0095327/?ref_=chttp_t_44</actor>
+            <actor>Tsutomu Tatsumi</actor>
+            <actor>Ayano Shiraishi</actor>
+            <actor>Akemi Yamaguchi</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>45. Harakiri</titulo>
+        <enlace>https://www.imdb.com/title/tt0056058/?ref_=chttp_t_45</enlace>
+        <year>1962</year>
+        <duration>2h 13m</duration>
+        <director>Masaki Kobayashi</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0056058/?ref_=chttp_t_45</actor>
+            <actor>Tatsuya Nakadai</actor>
+            <actor>Akira Ishihama</actor>
+            <actor>Shima Iwashita</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>46. Casablanca</titulo>
+        <enlace>https://www.imdb.com/title/tt0034583/?ref_=chttp_t_46</enlace>
+        <year>1942</year>
+        <duration>1h 42m</duration>
+        <director>Michael Curtiz</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0034583/?ref_=chttp_t_46</actor>
+            <actor>Humphrey Bogart</actor>
+            <actor>Ingrid Bergman</actor>
+            <actor>Paul Henreid</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>47. Intocable</titulo>
+        <enlace>https://www.imdb.com/title/tt1675434/?ref_=chttp_t_47</enlace>
+        <year>2011</year>
+        <duration>1h 52m</duration>
+        <director>Olivier Nakache</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt1675434/?ref_=chttp_t_47</actor>
+            <actor>François Cluzet</actor>
+            <actor>Omar Sy</actor>
+            <actor>Anne Le Ny</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>48. Tiempos modernos</titulo>
+        <enlace>https://www.imdb.com/title/tt0027977/?ref_=chttp_t_48</enlace>
+        <year>1936</year>
+        <duration>1h 27m</duration>
+        <director>Charles Chaplin</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0027977/?ref_=chttp_t_48</actor>
+            <actor>Charles Chaplin</actor>
+            <actor>Paulette Goddard</actor>
+            <actor>Henry Bergman</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>49. Cinema Paradiso</titulo>
+        <enlace>https://www.imdb.com/title/tt0095765/?ref_=chttp_t_49</enlace>
+        <year>1988</year>
+        <duration>2h 35m</duration>
+        <director>Giuseppe Tornatore</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0095765/?ref_=chttp_t_49</actor>
+            <actor>Philippe Noiret</actor>
+            <actor>Enzo Cannavale</actor>
+            <actor>Antonella Attili</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>50. Hasta que llegó su hora</titulo>
+        <enlace>https://www.imdb.com/title/tt0064116/?ref_=chttp_t_50</enlace>
+        <year>1968</year>
+        <duration>2h 46m</duration>
+        <director>Sergio Leone</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0064116/?ref_=chttp_t_50</actor>
+            <actor>Henry Fonda</actor>
+            <actor>Charles Bronson</actor>
+            <actor>Claudia Cardinale</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>51. La ventana indiscreta</titulo>
+        <enlace>https://www.imdb.com/title/tt0047396/?ref_=chttp_t_51</enlace>
+        <year>1954</year>
+        <duration>1h 52m</duration>
+        <director>Alfred Hitchcock</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0047396/?ref_=chttp_t_51</actor>
+            <actor>James Stewart</actor>
+            <actor>Grace Kelly</actor>
+            <actor>Wendell Corey</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>52. Alien, el octavo pasajero</titulo>
+        <enlace>https://www.imdb.com/title/tt0078748/?ref_=chttp_t_52</enlace>
+        <year>1979</year>
+        <duration>1h 57m</duration>
+        <director>Ridley Scott</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0078748/?ref_=chttp_t_52</actor>
+            <actor>Sigourney Weaver</actor>
+            <actor>Tom Skerritt</actor>
+            <actor>John Hurt</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>53. Luces de la ciudad</titulo>
+        <enlace>https://www.imdb.com/title/tt0021749/?ref_=chttp_t_53</enlace>
+        <year>1931</year>
+        <duration>1h 27m</duration>
+        <director>Charles Chaplin</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0021749/?ref_=chttp_t_53</actor>
+            <actor>Charles Chaplin</actor>
+            <actor>Virginia Cherrill</actor>
+            <actor>Florence Lee</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>54. Apocalypse Now</titulo>
+        <enlace>https://www.imdb.com/title/tt0078788/?ref_=chttp_t_54</enlace>
+        <year>1979</year>
+        <duration>2h 27m</duration>
+        <director>Francis Ford Coppola</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0078788/?ref_=chttp_t_54</actor>
+            <actor>Martin Sheen</actor>
+            <actor>Marlon Brando</actor>
+            <actor>Robert Duvall</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>55. Django desencadenado</titulo>
+        <enlace>https://www.imdb.com/title/tt1853728/?ref_=chttp_t_55</enlace>
+        <year>2012</year>
+        <duration>2h 45m</duration>
+        <director>Quentin Tarantino</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt1853728/?ref_=chttp_t_55</actor>
+            <actor>Jamie Foxx</actor>
+            <actor>Christoph Waltz</actor>
+            <actor>Leonardo DiCaprio</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>56. Memento</titulo>
+        <enlace>https://www.imdb.com/title/tt0209144/?ref_=chttp_t_56</enlace>
+        <year>2000</year>
+        <duration>1h 53m</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0209144/?ref_=chttp_t_56</actor>
+            <actor>Guy Pearce</actor>
+            <actor>Carrie-Anne Moss</actor>
+            <actor>Joe Pantoliano</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>57. En busca del arca perdida</titulo>
+        <enlace>https://www.imdb.com/title/tt0082971/?ref_=chttp_t_57</enlace>
+        <year>1981</year>
+        <duration>1h 55m</duration>
+        <director>Steven Spielberg</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0082971/?ref_=chttp_t_57</actor>
+            <actor>Harrison Ford</actor>
+            <actor>Karen Allen</actor>
+            <actor>Paul Freeman</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>58. WALL·E</titulo>
+        <enlace>https://www.imdb.com/title/tt0910970/?ref_=chttp_t_58</enlace>
+        <year>2008</year>
+        <duration>1h 38m</duration>
+        <director>Andrew Stanton</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0910970/?ref_=chttp_t_58</actor>
+            <actor>Ben Burtt</actor>
+            <actor>Elissa Knight</actor>
+            <actor>Jeff Garlin</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>59. La vida de los otros</titulo>
+        <enlace>https://www.imdb.com/title/tt0405094/?ref_=chttp_t_59</enlace>
+        <year>2006</year>
+        <duration>2h 17m</duration>
+        <director>Florian Henckel von Donnersmarck</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0405094/?ref_=chttp_t_59</actor>
+            <actor>Ulrich Mühe</actor>
+            <actor>Martina Gedeck</actor>
+            <actor>Sebastian Koch</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>60. Oppenheimer</titulo>
+        <enlace>https://www.imdb.com/title/tt15398776/?ref_=chttp_t_60</enlace>
+        <year>2023</year>
+        <duration>3h</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt15398776/?ref_=chttp_t_60</actor>
+            <actor>Cillian Murphy</actor>
+            <actor>Emily Blunt</actor>
+            <actor>Matt Damon</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>61. El crepúsculo de los dioses</titulo>
+        <enlace>https://www.imdb.com/title/tt0043014/?ref_=chttp_t_61</enlace>
+        <year>1950</year>
+        <duration>1h 50m</duration>
+        <director>Billy Wilder</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0043014/?ref_=chttp_t_61</actor>
+            <actor>William Holden</actor>
+            <actor>Gloria Swanson</actor>
+            <actor>Erich von Stroheim</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>62. Senderos de gloria</titulo>
+        <enlace>https://www.imdb.com/title/tt0050825/?ref_=chttp_t_62</enlace>
+        <year>1957</year>
+        <duration>1h 28m</duration>
+        <director>Stanley Kubrick</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0050825/?ref_=chttp_t_62</actor>
+            <actor>Kirk Douglas</actor>
+            <actor>Ralph Meeker</actor>
+            <actor>Adolphe Menjou</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>63. Vengadores: Infinity War</titulo>
+        <enlace>https://www.imdb.com/title/tt4154756/?ref_=chttp_t_63</enlace>
+        <year>2018</year>
+        <duration>2h 29m</duration>
+        <director>Anthony Russo</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt4154756/?ref_=chttp_t_63</actor>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Chris Hemsworth</actor>
+            <actor>Mark Ruffalo</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>64. El resplandor</titulo>
+        <enlace>https://www.imdb.com/title/tt0081505/?ref_=chttp_t_64</enlace>
+        <year>1980</year>
+        <duration>2h 26m</duration>
+        <director>Stanley Kubrick</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0081505/?ref_=chttp_t_64</actor>
+            <actor>Jack Nicholson</actor>
+            <actor>Shelley Duvall</actor>
+            <actor>Danny Lloyd</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>65. Spider-Man: Un nuevo universo</titulo>
+        <enlace>https://www.imdb.com/title/tt4633694/?ref_=chttp_t_65</enlace>
+        <year>2018</year>
+        <duration>1h 57m</duration>
+        <director>Bob Persichetti</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt4633694/?ref_=chttp_t_65</actor>
+            <actor>Shameik Moore</actor>
+            <actor>Jake Johnson</actor>
+            <actor>Hailee Steinfeld</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>66. El gran dictador</titulo>
+        <enlace>https://www.imdb.com/title/tt0032553/?ref_=chttp_t_66</enlace>
+        <year>1940</year>
+        <duration>2h 5m</duration>
+        <director>Charles Chaplin</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0032553/?ref_=chttp_t_66</actor>
+            <actor>Charles Chaplin</actor>
+            <actor>Paulette Goddard</actor>
+            <actor>Jack Oakie</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>67. Testigo de cargo</titulo>
+        <enlace>https://www.imdb.com/title/tt0051201/?ref_=chttp_t_67</enlace>
+        <year>1957</year>
+        <duration>1h 56m</duration>
+        <director>Billy Wilder</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0051201/?ref_=chttp_t_67</actor>
+            <actor>Tyrone Power</actor>
+            <actor>Marlene Dietrich</actor>
+            <actor>Charles Laughton</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>68. Aliens: El regreso</titulo>
+        <enlace>https://www.imdb.com/title/tt0090605/?ref_=chttp_t_68</enlace>
+        <year>1986</year>
+        <duration>2h 17m</duration>
+        <director>James Cameron</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0090605/?ref_=chttp_t_68</actor>
+            <actor>Sigourney Weaver</actor>
+            <actor>Michael Biehn</actor>
+            <actor>Carrie Henn</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>69. Malditos bastardos</titulo>
+        <enlace>https://www.imdb.com/title/tt0361748/?ref_=chttp_t_69</enlace>
+        <year>2009</year>
+        <duration>2h 33m</duration>
+        <director>Quentin Tarantino</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0361748/?ref_=chttp_t_69</actor>
+            <actor>Brad Pitt</actor>
+            <actor>Diane Kruger</actor>
+            <actor>Eli Roth</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>70. El caballero oscuro: La leyenda renace</titulo>
+        <enlace>https://www.imdb.com/title/tt1345836/?ref_=chttp_t_70</enlace>
+        <year>2012</year>
+        <duration>2h 44m</duration>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt1345836/?ref_=chttp_t_70</actor>
+            <actor>Christian Bale</actor>
+            <actor>Tom Hardy</actor>
+            <actor>Anne Hathaway</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>71. American Beauty</titulo>
+        <enlace>https://www.imdb.com/title/tt0169547/?ref_=chttp_t_71</enlace>
+        <year>1999</year>
+        <duration>2h 2m</duration>
+        <director>Sam Mendes</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0169547/?ref_=chttp_t_71</actor>
+            <actor>Kevin Spacey</actor>
+            <actor>Annette Bening</actor>
+            <actor>Thora Birch</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>72. ¿Teléfono rojo? Volamos hacia Moscú</titulo>
+        <enlace>https://www.imdb.com/title/tt0057012/?ref_=chttp_t_72</enlace>
+        <year>1964</year>
+        <duration>1h 35m</duration>
+        <director>Stanley Kubrick</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0057012/?ref_=chttp_t_72</actor>
+            <actor>Peter Sellers</actor>
+            <actor>George C. Scott</actor>
+            <actor>Sterling Hayden</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>73. Old Boy</titulo>
+        <enlace>https://www.imdb.com/title/tt0364569/?ref_=chttp_t_73</enlace>
+        <year>2003</year>
+        <duration>2h</duration>
+        <director>Park Chan-wook</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0364569/?ref_=chttp_t_73</actor>
+            <actor>Choi Min-sik</actor>
+            <actor>Yoo Ji-tae</actor>
+            <actor>Kang Hye-jeong</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>74. Coco</titulo>
+        <enlace>https://www.imdb.com/title/tt2380307/?ref_=chttp_t_74</enlace>
+        <year>2017</year>
+        <duration>1h 45m</duration>
+        <director>Lee Unkrich</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt2380307/?ref_=chttp_t_74</actor>
+            <actor>Anthony Gonzalez</actor>
+            <actor>Gael García Bernal</actor>
+            <actor>Benjamin Bratt</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>75. Amadeus</titulo>
+        <enlace>https://www.imdb.com/title/tt0086879/?ref_=chttp_t_75</enlace>
+        <year>1984</year>
+        <duration>2h 40m</duration>
+        <director>Milos Forman</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0086879/?ref_=chttp_t_75</actor>
+            <actor>F. Murray Abraham</actor>
+            <actor>Tom Hulce</actor>
+            <actor>Elizabeth Berridge</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>76. Toy Story</titulo>
+        <enlace>https://www.imdb.com/title/tt0114709/?ref_=chttp_t_76</enlace>
+        <year>1995</year>
+        <duration>1h 21m</duration>
+        <director>John Lasseter</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0114709/?ref_=chttp_t_76</actor>
+            <actor>Tom Hanks</actor>
+            <actor>Tim Allen</actor>
+            <actor>Don Rickles</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>77. El submarino (Das Boot)</titulo>
+        <enlace>https://www.imdb.com/title/tt0082096/?ref_=chttp_t_77</enlace>
+        <year>1981</year>
+        <duration>2h 29m</duration>
+        <director>Wolfgang Petersen</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0082096/?ref_=chttp_t_77</actor>
+            <actor>Jürgen Prochnow</actor>
+            <actor>Herbert Grönemeyer</actor>
+            <actor>Klaus Wennemann</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>78. Braveheart</titulo>
+        <enlace>https://www.imdb.com/title/tt0112573/?ref_=chttp_t_78</enlace>
+        <year>1995</year>
+        <duration>2h 58m</duration>
+        <director>Mel Gibson</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0112573/?ref_=chttp_t_78</actor>
+            <actor>Mel Gibson</actor>
+            <actor>Sophie Marceau</actor>
+            <actor>Patrick McGoohan</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>79. Vengadores: Endgame</titulo>
+        <enlace>https://www.imdb.com/title/tt4154796/?ref_=chttp_t_79</enlace>
+        <year>2019</year>
+        <duration>3h 1m</duration>
+        <director>Anthony Russo</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt4154796/?ref_=chttp_t_79</actor>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Chris Evans</actor>
+            <actor>Mark Ruffalo</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>80. Joker</titulo>
+        <enlace>https://www.imdb.com/title/tt7286456/?ref_=chttp_t_80</enlace>
+        <year>2019</year>
+        <duration>2h 2m</duration>
+        <director>Todd Phillips</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt7286456/?ref_=chttp_t_80</actor>
+            <actor>Joaquin Phoenix</actor>
+            <actor>Robert De Niro</actor>
+            <actor>Zazie Beetz</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>81. La princesa Mononoke</titulo>
+        <enlace>https://www.imdb.com/title/tt0119698/?ref_=chttp_t_81</enlace>
+        <year>1997</year>
+        <duration>2h 14m</duration>
+        <director>Hayao Miyazaki</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0119698/?ref_=chttp_t_81</actor>
+            <actor>Yôji Matsuda</actor>
+            <actor>Yuriko Ishida</actor>
+            <actor>Yûko Tanaka</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>82. El indomable Will Hunting</titulo>
+        <enlace>https://www.imdb.com/title/tt0119217/?ref_=chttp_t_82</enlace>
+        <year>1997</year>
+        <duration>2h 6m</duration>
+        <director>Gus Van Sant</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0119217/?ref_=chttp_t_82</actor>
+            <actor>Robin Williams</actor>
+            <actor>Matt Damon</actor>
+            <actor>Ben Affleck</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>83. Your Name.</titulo>
+        <enlace>https://www.imdb.com/title/tt5311514/?ref_=chttp_t_83</enlace>
+        <year>2016</year>
+        <duration>1h 46m</duration>
+        <director>Makoto Shinkai</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt5311514/?ref_=chttp_t_83</actor>
+            <actor>Ryunosuke Kamiki</actor>
+            <actor>Mone Kamishiraishi</actor>
+            <actor>Ryo Narita</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>84. Érase una vez en América</titulo>
+        <enlace>https://www.imdb.com/title/tt0087843/?ref_=chttp_t_84</enlace>
+        <year>1984</year>
+        <duration>3h 49m</duration>
+        <director>Sergio Leone</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0087843/?ref_=chttp_t_84</actor>
+            <actor>Robert De Niro</actor>
+            <actor>James Woods</actor>
+            <actor>Elizabeth McGovern</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>85. El infierno del odio</titulo>
+        <enlace>https://www.imdb.com/title/tt0057565/?ref_=chttp_t_85</enlace>
+        <year>1963</year>
+        <duration>2h 23m</duration>
+        <director>Akira Kurosawa</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0057565/?ref_=chttp_t_85</actor>
+            <actor>Toshirô Mifune</actor>
+            <actor>Yutaka Sada</actor>
+            <actor>Tatsuya Nakadai</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>86. 3 Idiots</titulo>
+        <enlace>https://www.imdb.com/title/tt1187043/?ref_=chttp_t_86</enlace>
+        <year>2009</year>
+        <duration>2h 50m</duration>
+        <director>Rajkumar Hirani</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt1187043/?ref_=chttp_t_86</actor>
+            <actor>Aamir Khan</actor>
+            <actor>Madhavan</actor>
+            <actor>Mona Singh</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>87. Cantando bajo la lluvia</titulo>
+        <enlace>https://www.imdb.com/title/tt0045152/?ref_=chttp_t_87</enlace>
+        <year>1952</year>
+        <duration>1h 43m</duration>
+        <director>Stanley Donen</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0045152/?ref_=chttp_t_87</actor>
+            <actor>Gene Kelly</actor>
+            <actor>Donald O'Connor</actor>
+            <actor>Debbie Reynolds</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>88. Cafarnaúm</titulo>
+        <enlace>https://www.imdb.com/title/tt8267604/?ref_=chttp_t_88</enlace>
+        <year>2018</year>
+        <duration>2h 6m</duration>
+        <director>Nadine Labaki</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt8267604/?ref_=chttp_t_88</actor>
+            <actor>Zain Al Rafeea</actor>
+            <actor>Yordanos Shiferaw</actor>
+            <actor>Boluwatife Treasure Bankole</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>89. Réquiem por un sueño</titulo>
+        <enlace>https://www.imdb.com/title/tt0180093/?ref_=chttp_t_89</enlace>
+        <year>2000</year>
+        <duration>1h 42m</duration>
+        <director>Darren Aronofsky</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0180093/?ref_=chttp_t_89</actor>
+            <actor>Ellen Burstyn</actor>
+            <actor>Jared Leto</actor>
+            <actor>Jennifer Connelly</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>90. Masacre (Ven y mira)</titulo>
+        <enlace>https://www.imdb.com/title/tt0091251/?ref_=chttp_t_90</enlace>
+        <year>1985</year>
+        <duration>2h 22m</duration>
+        <director>Elem Klimov</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0091251/?ref_=chttp_t_90</actor>
+            <actor>Aleksey Kravchenko</actor>
+            <actor>Olga Mironova</actor>
+            <actor>Liubomiras Laucevicius</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>91. Toy Story 3</titulo>
+        <enlace>https://www.imdb.com/title/tt0435761/?ref_=chttp_t_91</enlace>
+        <year>2010</year>
+        <duration>1h 43m</duration>
+        <director>Lee Unkrich</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0435761/?ref_=chttp_t_91</actor>
+            <actor>Tom Hanks</actor>
+            <actor>Tim Allen</actor>
+            <actor>Joan Cusack</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>92. El retorno del jedi</titulo>
+        <enlace>https://www.imdb.com/title/tt0086190/?ref_=chttp_t_92</enlace>
+        <year>1983</year>
+        <duration>2h 11m</duration>
+        <director>Richard Marquand</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0086190/?ref_=chttp_t_92</actor>
+            <actor>Mark Hamill</actor>
+            <actor>Harrison Ford</actor>
+            <actor>Carrie Fisher</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>93. ¡Olvídate de mí!</titulo>
+        <enlace>https://www.imdb.com/title/tt0338013/?ref_=chttp_t_93</enlace>
+        <year>2004</year>
+        <duration>1h 48m</duration>
+        <director>Michel Gondry</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0338013/?ref_=chttp_t_93</actor>
+            <actor>Jim Carrey</actor>
+            <actor>Kate Winslet</actor>
+            <actor>Tom Wilkinson</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>94. 2001: Una odisea del espacio</titulo>
+        <enlace>https://www.imdb.com/title/tt0062622/?ref_=chttp_t_94</enlace>
+        <year>1968</year>
+        <duration>2h 29m</duration>
+        <director>Stanley Kubrick</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0062622/?ref_=chttp_t_94</actor>
+            <actor>Keir Dullea</actor>
+            <actor>Gary Lockwood</actor>
+            <actor>William Sylvester</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>95. La caza</titulo>
+        <enlace>https://www.imdb.com/title/tt2106476/?ref_=chttp_t_95</enlace>
+        <year>2012</year>
+        <duration>1h 55m</duration>
+        <director>Thomas Vinterberg</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt2106476/?ref_=chttp_t_95</actor>
+            <actor>Mads Mikkelsen</actor>
+            <actor>Thomas Bo Larsen</actor>
+            <actor>Annika Wedderkopp</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>96. Reservoir Dogs</titulo>
+        <enlace>https://www.imdb.com/title/tt0105236/?ref_=chttp_t_96</enlace>
+        <year>1992</year>
+        <duration>1h 39m</duration>
+        <director>Quentin Tarantino</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0105236/?ref_=chttp_t_96</actor>
+            <actor>Harvey Keitel</actor>
+            <actor>Tim Roth</actor>
+            <actor>Michael Madsen</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>97. Vivir</titulo>
+        <enlace>https://www.imdb.com/title/tt0044741/?ref_=chttp_t_97</enlace>
+        <year>1952</year>
+        <duration>2h 23m</duration>
+        <director>Akira Kurosawa</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0044741/?ref_=chttp_t_97</actor>
+            <actor>Takashi Shimura</actor>
+            <actor>Nobuo Kaneko</actor>
+            <actor>Shin'ichi Himori</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>98. Lawrence de Arabia</titulo>
+        <enlace>https://www.imdb.com/title/tt0056172/?ref_=chttp_t_98</enlace>
+        <year>1962</year>
+        <duration>3h 38m</duration>
+        <director>David Lean</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0056172/?ref_=chttp_t_98</actor>
+            <actor>Peter O'Toole</actor>
+            <actor>Alec Guinness</actor>
+            <actor>Anthony Quinn</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>99. El apartamento</titulo>
+        <enlace>https://www.imdb.com/title/tt0053604/?ref_=chttp_t_99</enlace>
+        <year>1960</year>
+        <duration>2h 5m</duration>
+        <director>Billy Wilder</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0053604/?ref_=chttp_t_99</actor>
+            <actor>Jack Lemmon</actor>
+            <actor>Shirley MacLaine</actor>
+            <actor>Fred MacMurray</actor>
+        </reparto>
+    </pelicula>
+    <pelicula>
+        <titulo>100. Ciudadano Kane</titulo>
+        <enlace>https://www.imdb.com/title/tt0033467/?ref_=chttp_t_100</enlace>
+        <year>1941</year>
+        <duration>1h 59m</duration>
+        <director>Orson Welles</director>
+        <reparto>
+            <actor>https://www.imdb.com/title/tt0033467/?ref_=chttp_t_100</actor>
+            <actor>Orson Welles</actor>
+            <actor>Joseph Cotten</actor>
+            <actor>Dorothy Comingore</actor>
+        </reparto>
+    </pelicula>
+</peliculas>
