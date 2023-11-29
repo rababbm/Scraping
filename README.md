@@ -29,9 +29,12 @@ Estructura del Proyecto
 
     src/main/java/nombre/paquete/: Contiene los archivos fuente Java.
     src/main/resources/: Ubicación del controlador de Firefox (geckodriver).
-    peliculas.csv: Archivo CSV con información sobre las películas.
-    directores.csv: Archivo CSV con información sobre los directores.
+    peliculas.csv: Archivo CSV con información sobre los atributos que contienen la clase pelicula.
+    directores.csv: Archivo CSV con información sobre los atributos que contienen la clase director.
+    reparto.xml: Archivo CSV con información sobre los atributos que contienen la clase reparto.
+
     peliculas.xml: Archivo XML con información sobre las películas.
+    
 
 
 ```
